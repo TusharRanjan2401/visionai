@@ -11,17 +11,7 @@
 - **Alarm Sound**: Plays an alert sound encoded in Base64 when an object is detected.
 - **Modern UI**: Employs **Shadcn** for a sleek and responsive user interface.
 
-## Getting Started
-
-**Run the Development Server**
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-### Usage
+  ### Usage
 
 1. **Access the Webcam**: Allow the application to access your webcam when prompted.
 2. **Start Detection**: Click the "Start Detection" button to begin object detection.
@@ -39,3 +29,17 @@ yarn dev
 - **MediaRecorder API**: Provides video recording functionality.
 - **react-webcam**: A React component for accessing the webcam.
 - **Shadcn**: A UI framework for building modern and responsive interfaces.
+
+## Getting Started
+
+**Run the Development Server**
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+## Author
+[@Tushar Ranjan](https://github.com/TusharRanjan2401)
+
